@@ -6,7 +6,7 @@
   "author": "BKWLD <info@bkwld.com>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/Reyncor/tram.git"
+    "url": "git://github.com/BKWLD/tram.git"
   },
   "dependencies": {
     "jquery": "~2.0.3"
