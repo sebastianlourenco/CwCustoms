@@ -1,0 +1,16 @@
+{
+  "name": "Tram",
+  "description": "CSS transition JS library.",
+  "homepage": "https://github.com/BKWLD/tram",
+  "keywords": ["CSS", "transitions", "HTML5", "animation", "framework", "layer"],
+  "author": "BKWLD <info@bkwld.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/BKWLD/tram.git"
+  },
+  "dependencies": {
+    "jquery": "~2.0.3"
+  },
+  "version": "1.0.0",
+  "main": "dist/tram.js"
+}
